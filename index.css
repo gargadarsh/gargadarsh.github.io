@@ -1,6 +1,7 @@
 body {
-  background-color: burlywood;
+  background: rgb(240, 230, 93);
 }
+
 img {
   display: block;
   margin-left: auto;
