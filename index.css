@@ -1,5 +1,5 @@
 body {
-  background: rgb(240, 230, 93);
+  background: rgb(50, 50, 50);
 }
 
 img {
@@ -10,4 +10,8 @@ img {
 
 ul {
   display: table;
+}
+
+table {
+  margin: auto;
 }
